@@ -1,0 +1,3 @@
+The Backpropogation is to be done to adjust the weights so as the network learns the best. If we want the particular neuron to be more active then all other neurons to be less active, they should have smaller values than the particular neuron. Each neuron has it's own desire. So the desire of each neuron to be added. So idea of backpropogation comes from this where we have to have to adjust the weights and biases based on what each neuron wants.
+
+So what the each output neuron wants, how they want to change the biases. Their responses gets average together those desire changes.The collection of average nudges to each weight and bias is the negative gradient of the cost function. So that would allows to decrease the cost.  
